@@ -1,0 +1,33 @@
+{
+  "name": "pokemon-typecolors",
+  "version": "1.0.0",
+  "description": "the official colors of pokemon types as ts and css variables",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potfisch-industries/pokemon-typecolors.git"
+  },
+  "author": "potfisch-industries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/potfisch-industries/pokemon-typecolors/issues"
+  },
+  "homepage": "https://github.com/potfisch-industries/pokemon-typecolors#readme",
+  "dependencies": {
+    "pokemon-typescript": "^0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
