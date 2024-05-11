@@ -1,6 +1,6 @@
 {
   "name": "pokemon-typecolors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "the official colors of pokemon types as ts and css variables",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
