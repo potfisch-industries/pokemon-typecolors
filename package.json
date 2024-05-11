@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/potfisch-industries/pokemon-typecolors#readme",
   "dependencies": {
-    "pokemon-typescript": "^0"
+    "pokemon-typescript": "^1.0.0"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
